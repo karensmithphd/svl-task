@@ -1,0 +1,85 @@
+// **Group members profiles**
+// Each profile consists of (1) avatar, (2) username, (3) personal description, (4) number of "likes" the profile will receive throughout the interaction
+
+window.others = {
+  "posts" : [
+      {
+        "avatar": "avatars/others/arya.png",
+        "username": "Arya",
+        "text": "My favorite thing to do is create crafts/legos (currently building a giant castle)/puzzles that are more than 500 pieces! My favorite food is tiramisu and cheetos. My favorite movie is Frozen and Barbie. Something I like is seeing through the telescope and something I don't like is math and vocab tests.",
+				"startlikes": 0,
+				"likes": [45000, 50000, 110000, 150000] //4
+      },
+      {
+        "avatar": "avatars/others/aiden.png",
+        "username": "Aiden",
+        "text": "My favorite thing to do is play basketball at the park. My favorite food is pop tarts. My favorite movie is Star Wars. Something I like is going to McDonalds after my basketball games and something I don't like is my sister.",
+				"startlikes": 0,
+        "likes": [12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
+      },
+      {
+        "avatar": "avatars/others/cara.png",
+        "username": "Cara",
+        "text": "My favorite thing to do is scavenger hunts thorugh the neighborhood to find lady bugs and four leaf clovers. My favorite food is potato and carrots. My favorite movie is Aladdin. Something I like is hugs and unicorns and something I don't like is walking on the beach.",
+				"startlikes": 0,
+				"likes": [20000, 21000] //2
+      },
+      {
+        "avatar": "avatars/others/alex.png",
+        "username": "Alex",
+        "text": "My favorite thing to do is play outside with my friends. My favorite food is mac and cheese. My favorite movie is The Lego Movie. Somthing I like is my dog Lucy and something I don't like is going to school.",
+				"startlikes": 0,
+				"likes": [10000, 12000, 40000, 80000, 120000] //5
+      },
+      {
+        "avatar": "avatars/others/adriene.png",
+        "username": "Adriene",
+        "text": "My favorite thing to do is sing songs to my bird friends beside the lake. My favorite food is strawberry and bagels. My favorite movie is Spirited Away. Somthing I like is books, poems, and lullabies and something I don't like is nightmares about monsters chasing me.",
+				"startlikes": 0,
+				"likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
+      },
+    {
+        "avatar": "avatars/others/katy.png",
+        "username": "Katy",
+        "text": "My favorite thing to do is play roblox. My favorite food is m&ms. My favorite movie is Encanto. Somthing I like is jumping on our trampoline and something I don't like is bugs!!!",
+				"startlikes": 0,
+				"likes": [20000, 25000, 95000] //3
+      },
+      {
+        "avatar": "avatars/others/anton.png",
+        "username": "Anton",
+        "text": "My favorite thing to do is play with my dog Cooper. My favorite food is gushers. My favorite movie is Zombies 2. Somthing I like is playing connect 4 with my sister and something I don't like is doing the dishes.",
+				"startlikes": 0,
+				"likes": [12000, 38000] //1
+      },
+          {
+        "avatar": "avatars/others/ines.png",
+        "username": "Ines",
+        "text": "My favorite thing to do is swing on the tire swing! My favorite food is waffles. My favorite movie is Luca. Somthing I like is my littlest pet shop and something I don't like is veggies.",
+				"startlikes": 0,
+				"likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
+      },
+      {
+        "avatar": "avatars/others/evan.png",
+        "username": "Evan",
+        "text": "My favorite thing to do is catch fireflies outside at night. My favorite food is bacon. My favorite movie is Willy Wonka and the Chocolate Factory. Somthing I like is Pokemon and something I don't like is doing homework instead of playing video games.",
+				"startlikes": 0,
+				"likes": [12000, 40000, 120000] //3
+      },
+      {
+        "avatar": "avatars/others/zola.png",
+        "username": "Zola",
+        "text": "My favorite thing to do is climb trees and fly kites. My favorite food is bean stew. My favorite movie is The Sound of Music. Somthing I like is raindrops on roses and whiskers on kittens and something I don't like is forgetting to do homework.",
+				"startlikes": 0,
+				"likes": [13000, 50000, 80000, 88000, 120000] //5
+      },
+      {
+        "avatar": "avatars/others/pau.png",
+        "username": "Pau",
+        "text": "My favorite thing to do is go to the beach. My favorite food is tacos. My favorite movie is Finding Nemo. Somthing I like is outer space and something I don't like is broccoli.",
+				"startlikes": 0,
+				"likes": [10000, 50000] //6
+      },
+
+    ]
+  };
